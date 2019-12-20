@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "sass": "sass --watch sass/:css/",
+     "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACP12/bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACP12/bootstrap/issues"
+  },
+  "homepage": "https://github.com/ACP12/bootstrap#readme"
+}
